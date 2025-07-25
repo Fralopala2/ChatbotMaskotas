@@ -1,0 +1,21 @@
+# Ignorar archivos de clave de servicio de Firebase
+chatbot-maskotas-72d44d6d1b83.json
+
+# Ignorar archivos de entorno local si los usaras (aunque ahora usas variables de entorno directas)
+.env
+.flaskenv
+
+# Archivos específicos de Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+.pytest_cache/
+venv/
+env/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
