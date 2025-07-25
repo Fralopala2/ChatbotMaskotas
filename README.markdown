@@ -30,7 +30,7 @@ Un chatbot inteligente para la clínica veterinaria "Maskotas", diseñado para r
 ### 1. Clonar Repositorio
 
 ```bash
-git clone https://github.com/<tu_usuario>/ChatbotMaskotas.git
+git clone https://github.com/Fralopala2/ChatbotMaskotas.git
 cd ChatbotMaskotas
 ```
 
