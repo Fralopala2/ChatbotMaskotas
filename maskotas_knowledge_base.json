@@ -55,17 +55,17 @@
     {
       "tema": "contacto",
       "pregunta": "¿Cómo puedo contactar con la clínica Maskotas?",
-      "respuesta": "Puedes llamarnos al 912 345 678, enviar un email a info@maskotas.com o visitarnos en nuestra dirección: Calle Ficticia, 123, Madrid."
+      "respuesta": "Puedes llamarnos al 999 999 999, enviar un email a info@maskotas.com o visitarnos en nuestra dirección: Calle Ficticia, 123, Madrid."
     },
 	{
       "tema": "dirección",
       "pregunta": "¿Cual es vuestra dirección?",
-      "respuesta": "Puedes visitarnos en nuestra dirección: Calle Ficticia, 123, Madrid."
+      "respuesta": "Puedes visitarnos en nuestra dirección: Calle Ficticia, 123, Manises."
     },
     {
       "tema": "urgencias",
       "pregunta": "¿Tenéis servicio de urgencias?",
-      "respuesta": "Ofrecemos servicio de urgencias 24h. Llama al 600 987 654 para emergencias fuera del horario de la clínica."
+      "respuesta": "Ofrecemos servicio de urgencias 24h. Llama al 600 600 600 para emergencias fuera del horario de la clínica."
     }
   ]
 }
