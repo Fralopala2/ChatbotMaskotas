@@ -39,7 +39,7 @@ Tu proyecto **Chatbot Maskotas** es funcional pero necesitaba refactorización p
 ## 🎯 10 Mejoras Clave Implementadas
 
 | # | Mejora | Impacto | Estado |
-|---|--------|--------|--------|
+|---|--------|---------|--------|
 | 1 | Separación de responsabilidades | ⭐⭐⭐ Crítico | ✅ |
 | 2 | Sistema de logging completo | ⭐⭐⭐ Crítico | ✅ |
 | 3 | Type hints en todo el código | ⭐⭐⭐ Crítico | ✅ |
@@ -59,9 +59,9 @@ Tu proyecto **Chatbot Maskotas** es funcional pero necesitaba refactorización p
 ```
 ✅ config.py                  (67 líneas)
 ✅ logger.py                  (48 líneas)
-✅ database.py               (155 líneas)
-✅ ai_model.py               (97 líneas)
-✅ chatbot.py                (169 líneas)
+✅ database.py                (155 líneas)
+✅ ai_model.py                (97 líneas)
+✅ chatbot.py                 (169 líneas)
 ✅ upload_data_improved.py    (71 líneas)
 ```
 
